@@ -1,0 +1,11 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  nav p {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+  }
+  
